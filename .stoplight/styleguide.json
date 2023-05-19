@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Wqcpfvui",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjY"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjY",
+      "name": "Incredible Fresh Chips",
+      "slug": "seeded-incredible-fresh-chips-tf4nz",
+      "workspace": {
+        "slug": "seeded-enterprise",
+        "name": "seeded-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
